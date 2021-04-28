@@ -1,6 +1,6 @@
 ### Hi, my name is  [Gabriel Quispe Rosas][https://quisperosasgabriel.github.io/portafolio-proyectos/] 👋
 
-[![Twitter Follow](https://img.shields.io/twitter/follow/NavisCode?color=1DA1F2&label=NavisCode&logo=twitter&style=for-the-badge)](https://twitter.com/GabrielOmarQ)
+[![Twitter Follow](https://img.shields.io/twitter/follow/QuispeGabriel?color=1DA1F2&label=NavisCode&logo=twitter&style=for-the-badge)](https://twitter.com/GabrielOmarQ)
 
 ### 💻 Web Developer - JS Lover - Member of Angular Peru - Love to participate in meetups 😎🚀
 
