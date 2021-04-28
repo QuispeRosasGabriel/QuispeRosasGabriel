@@ -12,7 +12,7 @@
 - ⚡ Fun fact: I love Angular but I work with React
 - 📫 Contact: gabrielomarquisperosas@gmail.com
 
-<!-- LINKS -->
+
 ---
 
 [website]: https://quisperosasgabriel.github.io/portafolio-proyectos/
