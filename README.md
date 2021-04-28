@@ -2,7 +2,7 @@
 
 [![Twitter Follow](https://img.shields.io/twitter/follow/NavisCode?color=1DA1F2&label=NavisCode&logo=twitter&style=for-the-badge)](https://twitter.com/GabrielOmarQ)
 
-### 💻 Web Developer - JS Lover - Member of Angular Peru - Love to participate in meetups 😎
+### 💻 Web Developer - JS Lover - Member of Angular Peru - Love to participate in meetups 😎🚀
 
 - 🔭 I’m currently working on different projects around the world 🌍
 - 🌱 I’m currently learning more about web dev
@@ -12,8 +12,6 @@
 - ⚡ Fun fact: I love Angular but I work with React
 - 📫 Contact: gabrielomarquisperosas@gmail.com
 
-
----
 
 [website]: https://quisperosasgabriel.github.io/portafolio-proyectos/
 [blog]: https://dev.to/gabrielomarq
