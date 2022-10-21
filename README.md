@@ -8,7 +8,7 @@
 - 👯 I’m looking to collaborate webinar,meetup...
 - 💬 Ask me about to be a web dev
 - 😄 Pronouns: 'he/him'
-- ⚡ Fun fact: I love Angular but I work with React
+- ⚡ Fun fact: If u know JS, all frameworks are easy
 - 📫 Contact: gabrielomarquisperosas@gmail.com
 
 
